@@ -1,0 +1,4 @@
+﻿  Foghis_Nicusor.cpp
+d:\ms\foghis nicusor-proiect poo- autentificare\foghis nicusor-proiect poo- autentificare\foghis_nicusor.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\ms\foghis nicusor-proiect poo- autentificare\foghis nicusor-proiect poo- autentificare\foghis_nicusor.cpp(19): warning C4101: 'a': unreferenced local variable
+  Foghis Nicusor-Proiect POO- Autentificare.vcxproj -> D:\Ms\Foghis Nicusor-Proiect POO- Autentificare\Debug\Foghis Nicusor-Proiect POO- Autentificare.exe
